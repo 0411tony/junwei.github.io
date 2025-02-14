@@ -13,7 +13,7 @@ title                    : "Junwei Zhang's Home Page"
 title_separator          : "-"
 name                     : &name "Junwei Zhang"
 description              : &description "I’m a fourth year Ph.D. student from Zhejiang University. My research interest includes software engineering, such as AI for SE, mining software."
-url                      : https://0411tony.github.io/junwei.github.io/  # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://0411tony.github.io/junwei.github.io  # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://0411tony.github.io/junwei.github.io/"
 
