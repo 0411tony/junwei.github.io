@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Junwei Zhang's Home Page"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Junwei Zhang"
-description              : &description "I’m a fourth year Ph.D. student from Zhejiang University, My research interest includes software engineering, such as AI for SE, mining software repositories, etc."
-url                      : https://junwei.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
