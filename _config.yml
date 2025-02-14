@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jw.png"
+  avatar           : "profile.png"
   name             : "Junwei Zhang (张峻伟)"
   pronouns         : he/his
   bio              : "I’m a fourth year Ph.D. student from Zhejiang University"
@@ -33,7 +33,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=nBNfAUAAAAAJ&hl=zh-CN&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
