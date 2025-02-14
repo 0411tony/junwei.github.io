@@ -21,7 +21,7 @@ Work experience
   * Duties includes: Software defect detection and unit test generation based on large language models
   * Supervisor: Xin Xia and Xing Hu
  
-Related Publications
+Recent Publications
 ======
 * Junwei Zhang, Xing Hu*, Shan Gao, Xin Xia, David Lo, Shanping Li. "Less is More: On the Importance of Data Quality for Unit Test Generation" International Conference on the Foundations of Software Engineering (FSE 2025), Accepted as a Full Paper
 * Xuancheng Jin, Zhuang Liu, Junwei Zhang, Xing Hu*, Xin Xia. "TRACETS4J: A Traceable Unit Test Generation Dataset" 2nd International Conference on Software Analysis, Evolution and Reengineering (SANER 2025), Accepted as a Full Paper
