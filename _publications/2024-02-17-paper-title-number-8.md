@@ -8,7 +8,7 @@ predict the statement-level control dependencies and token-level data dependenci
 its source code.'
 date: 2024-04-14
 venue: 'ICSE 2024.'
-paperurl: 'https://github.com/0411tony/junwei.github.io/blob/master/files/Information_Science.pdf'
+paperurl: 'https://github.com/0411tony/junwei.github.io/blob/master/files/ICSE2024-paper.pdf'
 citation: 'Zhongxin Liu, Zhijie Tang, Junwei Zhang, Xin Xia, and Xiaohu Yang. (2024). &quot;Pre-training by Predicting Program Dependencies for Vulnerability Analysis Tasks.&quot; <i>ICSE 2024.</i>. 546(2024).'
 ---
 
