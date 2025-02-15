@@ -11,15 +11,15 @@ I'm a fourth year Ph.D. student from Zhejiang University, My research interest i
 
 Education
 ======
-* Ph.D in Software Engineering, Zhejiang University, 2025.06 (expected), Supervisor: Shanping Li, [Xin Xia](https://xin-xia.github.io/), [Lingfeng Bao](https://baolingfeng.github.io/), [Zhongxin Liu](https://zhongxin-liu.github.io/), and [Xing Hu](https://xing-hu.github.io/)
+* Ph.D in Software Engineering, Zhejiang University, 2025.06 (expected), Supervisor: Prof. Shanping Li, Prof. [Xin Xia](https://xin-xia.github.io/), Assoc. Prof. [Lingfeng Bao](https://baolingfeng.github.io/), Assoc. Prof. [Xing Hu](https://xing-hu.github.io/), and Asst. Prof. [Zhongxin Liu](https://zhongxin-liu.github.io/).
 * M.S. in Software Engineering, Chongqing University, 2018.09-2021.06, Supervisor: [Min Gao](http://www.cse.cqu.edu.cn/info/2095/7111.htm)
 * B.S. in Software Engineering, Chongqing University, 2014.09-2018.06
 
 Work experience
 ======
-* Intern at Huawei (2022.01-2025.01)
-  * Duties includes: Software defect detection and unit test generation based on large language models
-  * Supervisor: [Xin Xia](https://xin-xia.github.io/)
+* Huawei, China (2022.01-2025.01)
+  * Duties includes: Software defect detection and unit test generation based on large language models.
+  * Supervisor: [Xin Xia](https://xin-xia.github.io/) (The Chief Expert of the Software Engineering Application Technology)
  
 Recent Publications
 ======
