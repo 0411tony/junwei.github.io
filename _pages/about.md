@@ -11,15 +11,15 @@ I'm a fourth year Ph.D. student from Zhejiang University, My research interest i
 
 Education
 ======
-* Ph.D in Software Engineering, Zhejiang University, 2025.06 (expected)
-* M.S. in Software Engineering, Chongqing University, 2021.06
-* B.S. in Software Engineering, Chongqing University, 2018.06
+* Ph.D in Software Engineering, Zhejiang University, 2025.06 (expected), Supervisor: Shanping Li, [Xin Xia](https://xin-xia.github.io/), [Lingfeng Bao](https://baolingfeng.github.io/), [Zhongxin Liu](https://zhongxin-liu.github.io/), and [Xing Hu](https://xing-hu.github.io/)
+* M.S. in Software Engineering, Chongqing University, 2018.09-2021.06, Supervisor: [Min Gao](http://www.cse.cqu.edu.cn/info/2095/7111.htm)
+* B.S. in Software Engineering, Chongqing University, 2014.09-2018.06
 
 Work experience
 ======
 * Intern at Huawei (2022.01-2025.01)
   * Duties includes: Software defect detection and unit test generation based on large language models
-  * Supervisor: Xin Xia and Xing Hu
+  * Supervisor: [Xin Xia](https://xin-xia.github.io/)
  
 Recent Publications
 ======
@@ -30,4 +30,4 @@ Recent Publications
 
 You can find my CV here: [Junwei Zhang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
 
-[Email](mailto:jw.zhang@zju.edu.cn)/[Github](https://github.com/0411tony)/[Wechat](../images/wechat.jpg)
+[Email](mailto:jw.zhang@zju.edu.cn)/[Github](https://github.com/0411tony)
