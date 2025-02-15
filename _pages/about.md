@@ -23,10 +23,10 @@ Work experience
  
 Recent Publications
 ======
-* Junwei Zhang, Xing Hu*, Shan Gao, Xin Xia, David Lo, Shanping Li. "Less is More: On the Importance of Data Quality for Unit Test Generation" International Conference on the Foundations of Software Engineering (FSE 2025), Accepted as a Full Paper
-* Xuancheng Jin, Zhuang Liu, Junwei Zhang, Xing Hu*, Xin Xia. "TRACETS4J: A Traceable Unit Test Generation Dataset" 2nd International Conference on Software Analysis, Evolution and Reengineering (SANER 2025), Accepted as a Full Paper
-* Junwei Zhang, Xing Hu*, Lingfeng Bao, Xin Xia, Shanping Li. "Dual Prompt-Based Few-Shot Learning for Automated Vulnerability Patch Localization" International Conference on Software Analysis, Evolution and Reengineering (SANER 2024), Accepted as a Full Paper
-* Junwei Zhang, Zhongxin Liu, Xing Hu, Xin Xia, Shanping Li. "Vulnerability Detection by Learning from Syntax-Based Execution Paths of Code" IEEE Transactions on Software Engineering (TSE), Accepted as a Full Paper
+* <em>Junwei Zhang</em>, Xing Hu*, Shan Gao, Xin Xia, David Lo, Shanping Li. "Less is More: On the Importance of Data Quality for Unit Test Generation" International Conference on the Foundations of Software Engineering (FSE 2025), Accepted as a Full Paper
+* Xuancheng Jin, Zhuang Liu, <em>Junwei Zhang</em>, Xing Hu*, Xin Xia. "TRACETS4J: A Traceable Unit Test Generation Dataset" 2nd International Conference on Software Analysis, Evolution and Reengineering (SANER 2025), Accepted as a Full Paper
+* <em>Junwei Zhang</em>, Xing Hu*, Lingfeng Bao, Xin Xia, Shanping Li. "Dual Prompt-Based Few-Shot Learning for Automated Vulnerability Patch Localization" International Conference on Software Analysis, Evolution and Reengineering (SANER 2024), Accepted as a Full Paper
+* <em>Junwei Zhang</em>, Zhongxin Liu*, Xing Hu, Xin Xia, Shanping Li. "Vulnerability Detection by Learning from Syntax-Based Execution Paths of Code" IEEE Transactions on Software Engineering (TSE), Accepted as a Full Paper
 
 You can find my CV here: [Junwei Zhang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
 
