@@ -7,7 +7,7 @@ excerpt: 'This paper systematically examines the impact of noise on the performa
 models.'
 date: 2025-02-15
 venue: 'FSE 2025'
-paperurl: 'http://github.com/0411tony/junwei.github.io/files/CleanTest_FSE2025_final.pdf'
+paperurl: 'https://github.com/0411tony/junwei.github.io/blob/master/files/CleanTest_FSE2025_final.pdf'
 citation: 'Junwei Zhang, Xing Hu, Shan Gao, Xin Xia, David Lo, Shanping Li. (2025). &quot;Less Is More: On the Importance of Data Quality for Unit Test Generation.&quot; <i>FSE 2025</i>. 1(1).'
 ---
 
