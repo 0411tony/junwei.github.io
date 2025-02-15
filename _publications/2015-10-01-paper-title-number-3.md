@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Inside Bug Report Templates: An Empirical Study on Bug Report Templates in Open-Source Software"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This paper conducts the first and most detailed study of BRTs on GitHub by performing quantitative and qualitative analyses.'
+date: 2024-07-24
+venue: 'Internetware '24: Proceedings of the 15th Asia-Pacific Symposium on Internetware'
+slidesurl: 
+paperurl: 'https://github.com/0411tony/junwei.github.io/blob/master/files/internetware2024.pdf'
+citation: 'Junwei Zhang, Zhongxin Liu, Lingfeng Bao, Zhenchang Xing, Xing Hu, and Xin Xia. (2024). &quot;Inside Bug Report Templates: An Empirical Study on Bug Report Templates in Open-Source Software.&quot; <i>Proceedings of the 15th Asia-Pacific Symposium on Internetware</i>. 125-134.'
 ---
 
 This paper conducts the first and most detailed study of BRTs on GitHub by performing quantitative and qualitative analyses in 3,194 projects and 5,987 commit messages of BRTs. We find that BRTs are widely used by open-source projects, especially prevalent in platform-type projects. 
