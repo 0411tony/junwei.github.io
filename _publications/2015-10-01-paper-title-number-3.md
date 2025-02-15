@@ -2,7 +2,7 @@
 title: "Inside Bug Report Templates: An Empirical Study on Bug Report Templates in Open-Source Software"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2009-10-01-paper-title-number-3
 excerpt: 'This paper conducts the first and most detailed study of BRTs on GitHub by performing quantitative and qualitative analyses.'
 date: 2024-07-24
 venue: 'Internetware 24: Proceedings of the 15th Asia-Pacific Symposium on Internetware'
