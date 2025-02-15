@@ -6,7 +6,7 @@ permalink:
 excerpt: 'This paper proposes a novel security patch localization approach named PromVPat, which utilizes the dual prompt tuning channel to capture the semantic correlation between vulnerability descriptions and commits, especially in data scarcity (i.e., few-shot) scenarios.'
 date: 2024-03-12
 venue: '940--951'
-paperurl: 'https://github.com/0411tony/junwei.github.io/blob/master/files/SANER2024_PPT.pdf'
+paperurl: 'https://github.com/0411tony/junwei.github.io/blob/master/files/SANER2024.pdf'
 citation: 'Junwei Zhang, Xing Hu*, Lingfeng Bao, Xin Xia, Shanping Li. International Conference on Software Analysis, Evolution and Reengineering (SANER 2024). &quot; Dual Prompt-Based Few-Shot Learning for Automated Vulnerability Patch Localization &quot; <i>940--951</i>. 1(2).'
 ---
 
