@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper conducts the first and most detailed study of BRTs on GitHub by performing quantitative and qualitative analyses.'
 date: 2024-07-24
-venue: 'Internetware '24: Proceedings of the 15th Asia-Pacific Symposium on Internetware'
+venue: 'Internetware 24: Proceedings of the 15th Asia-Pacific Symposium on Internetware'
 slidesurl: 'https://github.com/0411tony/junwei.github.io/blob/master/files/internetware2024.pdf'
 paperurl: 'https://github.com/0411tony/junwei.github.io/blob/master/files/internetware2024.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
