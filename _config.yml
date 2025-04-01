@@ -22,7 +22,7 @@ repository               : "https://0411tony.github.io/junwei.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jw2.png"
+  avatar           : "profile.png"
   name             : "Junwei Zhang (张峻伟)"
   pronouns         : he/his
   bio              : "I’m a fourth year Ph.D. student from Zhejiang University."
